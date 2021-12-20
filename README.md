@@ -1,5 +1,5 @@
 
-Basic login using PHP language
+Basic login using PHP language and MySQL
 </br>
 </br>
 <h1>Login screen</h1>
